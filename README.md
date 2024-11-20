@@ -1,5 +1,6 @@
 ![Logo](./src/imgs/favicon.png)
 
+
 # MarkdownBlogTemplate
 
 [\[简体中文\]](./README_CN.md) [\[Documentation\]](https://bhznjns.github.io/markdown-blog-template/)
