@@ -11,21 +11,21 @@ export default {
      * the title of blog HTML document, will be shown in the tabbar of browser
      * 博客 HTML 文档的标题，会被展示在浏览器的标签栏
      */
-    title: "Markdown Blog Template Documentation",
+    title: "UPTOPIA ™",
 
     /**
      * description: String
      * the description for the site, is necessary for RSS.
      * 网站的描述，对于 RSS 功能是必要的。
      */
-    description: "A markdown static blog site.",
+    description: " Big data solutions in hospitality.",
 
     /**
      * footer: String
      * the footer for this site, can be deleted if you do not need it
      * 站点的脚注，如果你不需要可以删除
      */
-    footer: "Powered by [MarkdownBlogTemplate](https://github.com/BHznJNs/markdown-blog-template)::",
+    footer: "Powered by [ Uptopia .com ]::",
 
     /**
      * language: String
